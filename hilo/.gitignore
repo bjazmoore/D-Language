@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/hilo
+hilo.so
+hilo.dylib
+hilo.dll
+hilo.a
+hilo.lib
+hilo-test-*
+*.exe
+*.o
+*.obj
+*.lst

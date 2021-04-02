@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/headstails
+headstails.so
+headstails.dylib
+headstails.dll
+headstails.a
+headstails.lib
+headstails-test-*
+*.exe
+*.o
+*.obj
+*.lst
