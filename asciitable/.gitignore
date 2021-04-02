@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/asciitable
+asciitable.so
+asciitable.dylib
+asciitable.dll
+asciitable.a
+asciitable.lib
+asciitable-test-*
+*.exe
+*.o
+*.obj
+*.lst

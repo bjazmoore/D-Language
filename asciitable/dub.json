@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"bjazmoore"
+	],
+	"copyright": "Copyright © 2021, bjazmoore",
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "asciitable"
+}
