@@ -3,7 +3,7 @@
 		"bjazmoore"
 	],
 	"copyright": "Copyright © 2021, bjazmoore",
-	"description": "This D program prints a simple extended ASCII table.",
+	"description": "A basic Hi-Lo guessing game.",
 	"license": "MIT",
-	"name": "asciitable"
+	"name": "hilo"
 }

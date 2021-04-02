@@ -1,8 +1,8 @@
 import std.stdio;
-import std.string;
+import std.string: strip;
 import std.conv;
-import std.random;
-import std.datetime;
+import std.random: uniform, Random;
+import std.datetime: Clock, UTC;
 
 ///Structure to contain game level settings
 struct Level{
