@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/rnd
+rnd.so
+rnd.dylib
+rnd.dll
+rnd.a
+rnd.lib
+rnd-test-*
+*.exe
+*.o
+*.obj
+*.lst
