@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"bjazmoore"
+	],
+	"copyright": "Copyright © 2021, bjazmoore",
+	"dependencies": {
+		"mir-random": "~>2.2.15"
+	},
+	"description": "An implementation of tic tac toe in D.",
+	"license": "MIT",
+	"name": "tictactoe"
+}
